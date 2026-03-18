@@ -3,7 +3,8 @@
 AI Application Engineer @ [360](https://www.360.cn) · Beijing
 
 Currently building lobster-native AI products with OpenClaw.  
-Previously: context engineering, multi-agent systems, MCP tooling.
+Previously: context engineering, multi-agent systems, MCP
+之前：上下文工程、多智能体系统、MCP 工具。
 
 ---
 
@@ -16,4 +17,7 @@ Previously: context engineering, multi-agent systems, MCP tooling.
 
 ---
 
-`Python` `TypeScript` `MCP` `SSE` `Multi-Agent` `Context Engineering`
+`Python` `Java` `Agent` `MCP` `SKILL` `Multi-Agent` `Context Engineering` `OpenClaw` `ChatBot` `Memoey`
+` Python``Java`` 年龄 ` ` MCP`` 技能 ` ` 多智能体 ` ` 上下文工程 ` ` OpenClaw`` 聊天机器人 ` ` `​​  
+` Python ` ` Java ` ` MCP ` ` 技能 ` ` 多智能体 ` ` 上下文工程 ` ` 操作`
+` Python``Java``MCP``S`` 多智能体 ` ` 上下文工程 ` ` `​​​​
